@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+*{
+ margin:0;
+ padding:0;
+box-sizing: border-box;
+}
+
+body{
+ background-color:#CBD6CB;
+	width:1100px;
+	padding-inline:10px
+	
+}
+
+
+.imageContainer{
+   width:100px;
+
+}
